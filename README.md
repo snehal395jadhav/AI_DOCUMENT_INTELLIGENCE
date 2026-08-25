@@ -31,13 +31,13 @@
 
 ## Project Preview
 
-<a href="https://www.loom.com/share/7cd4870772a04aab86720fe199282856" target="_blank">
+<a href="https://www.loom.com/share/65f2696a54834e8780df82c1fb0b50d8" target="_blank">
 
-<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_CHRONOGUARD/main/Screenshot.png"  width="95%"/>
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_DOCUMENT_INTELLIGENCE/main/Screenshot.png"  width="95%"/>
 
 </a>
 
-👉 [Click here to watch full screen demo](https://www.loom.com/share/7cd4870772a04aab86720fe199282856)
+👉 [Click here to watch full screen demo](https://www.loom.com/share/65f2696a54834e8780df82c1fb0b50d8)
 
 ---
 
