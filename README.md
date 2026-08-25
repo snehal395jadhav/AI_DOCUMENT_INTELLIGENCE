@@ -29,6 +29,18 @@
 
 ---
 
+## Project Preview
+
+<a href="https://www.loom.com/share/7cd4870772a04aab86720fe199282856" target="_blank">
+
+<img src="https://raw.githubusercontent.com/snehal395jadhav/AI_CHRONOGUARD/main/Screenshot.png"  width="95%"/>
+
+</a>
+
+👉 [Click here to watch full screen demo](https://www.loom.com/share/7cd4870772a04aab86720fe199282856)
+
+---
+
 # Overview
 
 **PrePressAI Neural Studio** is an enterprise AI-powered prepress intelligence platform designed to automate the analysis, separation, validation, quality control, and production preparation of professional print artwork.
